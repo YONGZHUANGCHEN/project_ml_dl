@@ -1,5 +1,4 @@
-# project describe
-
+# Project machine learning approach
 
 
 This section is the code for the machine learning part of the project. A total of 2 data sets are used.
